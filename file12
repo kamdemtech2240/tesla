@@ -1,0 +1,24 @@
+To enter confifuration that will allow us to change the password Authentication from no to yes
+  sudo vi /etc/ssh/sshd_config
+  s: To restart the computer after making a                  change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers

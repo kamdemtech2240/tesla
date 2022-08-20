@@ -1,0 +1,6087 @@
+What is a Computers 
+  Computers have 2 components  = Hardware + Software
+     Hardware: CPU, Screen, keyboard, mouse, harddrive, RAM, Cards   
+     software: OS = Operating system, applications    
+
+Types of Computers:  
+  Personal Computers: Desktop, Laptop, IPADs, Tablets, Phones, etc. 
+  work Computers: Workstations, Servers (super computers)   
+
+Types Operating systems running in computers:
+    Linux OS []
+       Majority of Workstations, Servers (super computers)  
+    Windows OS []
+       Majority of Workstations, Laptops, Desktop
+    Solaris OS []
+    IOS []
+    Androids []
+
+Can I computer have more than ONE OS at once?? 99% 
+
+What determines the choice of an OS:
+Common OS are Windows, MacOS, Linux and Solaris
+  -- COST  
+         $400 for a windows OS licence 
+         $350 for a Solaris OS licence 
+         00$ for a Linux OS licence 
+  -- security
+       Virus attack   --- Windows  
+       No Virus attack--- Linux   
+  -- usage 
+       Personal use [Windows]  
+       Business [Linux]
+  -- quality  
+  -- version 
+  -- speed  
+  -- looks 
+  -- prestige 
+  -- durability 
+
+90:10 [Linux:Windows]  
+
+How are tasks runned/executed on computers???
+How are tasks runned/executed on computers???
+
+We are leveraging computing serviceS from AWS and GCP
+ Linux OS = 
+   Is an Open source OS = Free + code 
+
+ Linus was a student who converted a problem to a business
+ Solaris wasn't an open source = paid for 
+ Create a free Account in AWS =  
+
+Computer Vendors:
+  Dell, HP, Lenovo, Toshiba, Apple
+      A Dell Laptop with a windows OS is a Windows Computer  
+      An HP Desktop with a Linux OS is a Linux Computer 
+      An LG Desktop with a Linux OS is a Linux Computer 
+
+Car Vendors:
+  Toyota, Tesla, Ford, Honda
+
+Linus was using a Solaris computer for his project.
+   -- Encounter a problem running his project  
+   -- He contacted the vendor but the response delayed     
+
+Linus created the Linux OS from Solaris kernel []:
+
+Linux is an open source OS with multiple destributions/versions.
+Windows, Solaris, MacOS, etc are licenced OS.
+Softwares can be:
+  1. open source [Free with its source code]  
+     open source softwares has more community support
+
+  2. Free [free but without the source code(recipe)] 
+  3. licenced [paid for]  
+
+IQ: Explain your experience in Open SOURCE TECHNOLOGY?? Linux, 
+
+IQ: How to execute tasks/workloads in Linux servers:
+IQ: How to execute tasks/workloads on your computers:
+     1. GUI = Graphical User Interface  = 60k
+            -- This is generally a method manual to run tasks
+     2. CLI = Command Line Interface =    90k
+            -- This introduces tasks automation   
+     3. Scripts = Are generally a collection of commands = 180k 
+           -- amplifies tasks automation 
+
+ I have windows Laptop with default Folders [Directories]    
+   Folders [MY PC, document, downlaods, music, pictures, Desktop]
+
+Tasks:
+  Create 10 sub-Folders in your music folder of your windows Laptop  
+  Create 10 folders using commands in your Linux Server  
+====
+How and where I can buy and use Linux servers:
+
+What is needed to drive from Houston to Dallas??
+     Car [Buy, Hired/Rent, Taxi] 
+We shall rent/buy computing serviceS from a Cloud Provider like:
+   AWS = amazon web serviceS
+   GCP 
+   AZURE
+  This will be ultra-fast 
+
+
+     https://aws.amazon.com/ 
+Amazon is the parent company of AWS 
+    amazon.com 
+    aws.amazon.com
+
+We use write and deliver letters:
+  ups, dhl  
+  email   
+
+ Create a free Account in AWS =  
+    https://aws.amazon.com/ 
+
+Create and Login into your AWS Account:
+  userName  
+  password
+Create a virtual server [EC2] in YOUR AWS ACCOUNT/Cloud. 
+
+3. Connect to your Linux server running in AWS using:
+    1. ssh-client software [provide a passage]
+         mobaXterm, puTTY, gitBash
+         Download an install mobaXterm ssh-client software
+    2. identification = userName  
+    3. authentication = password or an SSH_KEY   
+    4. AUTHORISATION = what you do in the server  
+       Tasks that a user is AUTHORISE to execute  
+
+AWS 90%:
+   Admin[mobaXterm]  ---- > EC2-Linux 
+
+GCP 10%:
+
+How to find help quickly??
+ 1. Post problems in the Class29 Solution Group - wait for 10minutes  
+ 2. Forward/escalate the ticket to the help-desk  
+ 3. Contact class Admins [Ann/Ayafor/Serene/]
+ 4. Go through the video again
+
+Time to spend on a ticket/problem:
+  1. 2hours max
+  2. 21 DAYS 
+  3. Continue to the with the video(s) 
+      minutes 45 ---- 90mintes   
+
+1. Class29 DevOps Group  or Class29b = Telegram
+2. Help-Desk = Telegram
+3. Whatsapp Group [Class29 & class29b]
+4. Class29 Solution Group []  
+5. Teams
+Landmark TECHNOLOGY
+Class29 is Landmark 2023 Deployment:
+what made me successful?? = 
+  1. Who am I 
+  2. Where I'm my from
+  3. Why I'm I here   
+  4. What can I do    
+  5. Where I'm my going = what is my destination
+     Life without a purpose is the greatest strategy in life  
+     success is designed by God to be predictable  
+     success is not luck/an experiment   
+
+ssh -i "class29key.pem" ec2-user@ec2-184-169-191-86.us-west-1.compute.amazonaws.com  
+
+ssh -i class29key.pem ec2-user@184.169.191.86   
+
+input          ---- output   
+ Land 
+ Labour 
+ Capital 
+ Entrepreneur 
+
+Vorizon  
+vodafone 
+
+MTN  :
+  $5B      ---   $10B  
+Web economy ---  
+Facebook   --- 50  == 5b downlaods   
+Amazon   
+Web economy ---  
+Developers and Automation Engineers [DevOps Engineers ] 
+--- Banking/Finance - FinTech applications 
+--- Health &  
+--- Elon Musk   
+
+Enterprise/super computers: Servers 
+Work Experience :
+--- Windows Servers  OS 
+--- Linux Servers  OS
+
+Setup a private computer lab wither servers to study course 
+
+SERVER --- 8000GB MEMORY   256000gb 
+Laptop --- 64GB   MEMORY/4TB of Hardrive      
+phones --- 12GB   MEMORY/512 gb of Hardrive      
+
+File:
+  files   
+  folders=Directory
+    Folders or Directories is/are containers of 
+      files and sub folders/sub Directories 
+  sub-folders
+
+
+Windows File Structure:
+root/main/parent Directory:
+  This is the principal Directory where 
+  other Directories are created from
+ The root Directory for windows is:
+    c://  
+    C:\Users\LandmarkTechnologies\Documents
+    "C:\Users\LandmarkTechnologies\Downloads"
+    "C:\Users\LandmarkTechnologies\Music"
+    "C:\Users\LandmarkTechnologies\Documents\class29"
+ user: simon  
+    "C:\Users\Simon\Downloads"
+
+Linux File Structure:
+=====================
+ What is the root Directory for Winows: c://       
+ What is the root Directory for Linux: 
+       / 
+  Public Ip-address/RemoteHost address = 13.52.74.182  
+  userName: ec2-user  
+  sshKey: class29key.pem 
+  ssh = secure shell = 
+    use ssh protocol to securely connect to a Linux server    
+
+    ssh -i class29key.pem ec2-user@13.52.74.182 
+    ssh -i "class29key.pem" ec2-user@ec2-13-52-74-182.us-west-1.compute.amazonaws.com
+        = using sshKey to authenticate   
+    ssh ec2-user@13.52.74.182   
+        = using password to authenticate   
+
+
+Linux File Structure:
+=====================
+   Linux file Structure start with the root Directory [/]
+  
+home Dir = Users 
+================
+   Create user account for 5 team members 
+   ec2-user 
+   dominion  
+   simon 
+   mercy 
+   keren 
+
+bin = contains of binary files[commands] 
+=========================================
+ - ls = list the contant of a Directory [files/sub-directoriers]
+ - touch = create an empty file  
+ - cd    = change Directory
+ - cat   = display file content
+ - pwd   = print working Directory
+
+sbin = system/super bin
+========================
+ - adduser simon
+ - passwd simon
+What is the difference between bin and sbin in Linux? 
+ sbin are binary flies only executable by the root user or users 
+   with admin/elevated priviledges 
+ bin files are executable by any user 
+
+userName = root is the administrator, super user with unlimited access 
+root user is created when launching a Linux server  
+
+ GUI / CLI / Scripts   
+
+etc = configuration files
+======================== 
+- /etc/passwd 
+- /etc/shadow 
+- /etc/ssh/sshd_config 
+- /etc/cron.allow  
+
+tmp - temporal file holder 
+=========================
+
+opt = installation of packages
+===============================
+ - maven 
+ - tommcat 
+ - nexu
+
+
+lib  = 
+====
+
+proc 
+=======
+-  meminfo 
+-  cpuinfo 
+
+var
+====
+  /var/logs/messages 
+=======================
+The root is    '/'
+        ls /
+
+      ls /bin 
+      ls /sbin 
+      ls /tmp 
+      ls /opt 
+      ls /var
+      ls /lib 
+      ls /etc 
+
+[ec2-user@ip-172-31-12-29 ~]$ ls /
+bin   dev  home  lib64  mnt  proc  run   srv  tmp  var
+boot  etc  lib   media  opt  root  sbin  sys  usr
+
+GUI =  
+CLI = COMMANDS
+
+Basic Linux ommands:
+=====================
+  mkdir  = create directory     
+  ls = list fil and directories 
+  mkdir class29
+  mkdir devops
+  mkdir dirName  
+  mkdir -v test 
+    - v = verbose mode  
+mkdir class/class27/class28/class29b
+mkdir -pv class/class27/class28/class29b
+      -p = Create both parent and child dir
+
+[ec2-user@demo ~]$   mkdir class/class27/class28/class29b
+mkdir: cannot create directory ‘class/class27/class28/class29b’
+: No such file or directory
+
+Ticket 001:
+  Create the project dir in the below order
+     DevOps/aws/git/Linux/maven/nexus
+  mkdir -vp DevOps/aws/git/Linux/maven/nexus
+
+hostname  
+sudo hostname demo  
+sudo su - ec2-user 
+hostname
+
+Linux is case sensitive  = 
+   test / Test / TEST 
+      are different files in Linux
+
+  ls  LS Ls lS 
+[ec2-user@demo ~]$ tree
+-bash: tree: command not found  
+
+Yum is a package manager for Redhat Linux 
+ yum install tree
+
+ Error: This command has to be run with
+        superuser privileges
+        (under the root user on most systems). 
+ 
+  users classes:
+    Normal users 
+    root / superuser / admin 
+    system users
+       jenkins 
+
+How can you run a command as another user?
+ sudo permit a user to run commands as another user  
+whoami:
+ ec2-user
+
+simon 
+  sudo -u simon  yum install tree
+paul 
+  sudo -u paul  yum install tree
+root  
+  sudo -u root  yum install tree 
+  sudo yum install tree
+
+[ec2-user@demo ~]$ tree
+.
+├── class
+│   └── class27
+│       └── class28
+│           └── class29b
+├── class29
+├── devops
+├── DevOps
+│   └── aws
+│       └── git
+│           └── Linux
+│               └── maven
+│                   └── nexus
+├── test
+├── Test
+└── TEST
+
+mkdir 
+
+rmdir = it is use to delete empty directories
+rmdir Test/ TEST/
+
+[ec2-user@demo ~]$ rmdir class
+rmdir: failed to remove 'class': 
+       Directory not empty
+mkdir use to create directories 
+
+rm -r = use to delete any directories
+        delete directories with/without content 
+rmdir -v devops/
+rmdir: removing directory, 'devops/'
+commands in Linux are in lower case 
+
+========================
+ ls = List directory's content
+ ls = List the content of pwd    
+ ls / = List the content of the root dir  
+ ls /home/
+ ls /home/ec2-user
+ pwd =
+
+ touch = create a file  
+ ll or ls -l = Long list the directory's content
+ ls -lt 
+ ls -ltr
+ ls -la 
+ ls -ltra
+ Hidden files 
+     = are files that start with a "."
+       touch .config  
+
+cd 
+===
+  Change directory
+  Directory navigation 
+
+  [ec2-user@demo nexus]$ pwd
+/home/ec2-user/DevOps/aws/git/Linux/maven/nexus
+cd /home/ec2-user/DevOps/aws/
+cd - [takes you to your last dir]    
+cd ../../../../ 
+cd = moves user to his homeDir 
+
+user's homeDir:
+  /home/ec2-user
+  /home/simon 
+  /home/dominion
+
+ root user's homeDir:
+    /
+File/Directory MGT Commands
+===========================
+- Creating/modifying a file:
+  touch 
+  echo
+  echo I will be rich in 2022 > app.js 
+  echo "In Jesus Name" >> app.js
+  vi 
+  vi is a Text editors:
+  sublime    
+  bracket   
+  nodepad++ 
+  vscode     
+  vi or vim is use to create and/or modify files :
+
+    vi app.js
+    When you 'vi or vim' into a file you are in command mode.
+    Enter insert mode to start modifying
+
+    1. Type 'i' to enter insert mode 
+       This will permit modification 
+
+    2. After editing the file enter command mode
+       Type esc key to enter command mode 
+
+    3. Type ':wq!' or ':wq' and press enter to save and quit
+         press 'shift and do zz'
+
+    4. Type esc key to enter command mode  
+       Type " :q! " and press enter to quit without saving
+
+ cat deploy.sh  
+
+- searching files 
+    find  
+    find -f app.js 
+
+- reading/displaying a file  
+    cat 
+      cat  /etc/passwd  
+    head 
+      head /etc/passwd
+      head node.29
+      head -5 notes.29 
+      head -1 notes.29    
+    tail   
+      tail /etc/passwd
+      tail node.29
+      tail -5 notes.29 
+      tail -1 notes.29 
+
+- extracting sections/patterns from a file
+    grep 
+       grep -i simon list
+       grep simon list
+    sort   
+    pipe = | 
+      cat list | grep -i simon | sort  
+
+      --------------------
+   src ******************* 
+      --------------------
+    cut  
+    awk   
+       sn:    name  ID    ServerIP   
+       001    Paul  DS25  10.0.0.25
+       008    James ds11  10.0.0.36
+       0087   Erica DS21  10.0.0.52    
+
+- deleting a file:
+    rm  
+cp : It will copy file contents of one file to another file.
+mv : It will move or rename a file/dir
+file : Determine file type.
+wc : Counts the number of lines, words, bytes, or characters in a  file.
+    wc fileName 
+    wc -l 
+    wc -w 
+    wc -c 
+
+ln: It will create the link between file
+    It is use to create links of files 
+    Links helps admins to easily gain access into a file   
+
+  soft links: short cut to the file 
+    ln -s  deploy.sh deploy-sl.sh 
+  hard links: Is a copy of the file    
+    ln  deploy.sh deploy-bk.sh  
+    cp  deploy.sh  deploy-bk.sh  
+
+    deploy.sh  
+Explain the difference b/w soft and hard links:
+1      2          3      4         5      6        7             8
+Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   type  permissions links owner    group   size   date/time      fileName
+
+d     rwxrwxr-x.   2    ec2-user ec2-user  6    Jul 23 16:11    class
+-     rw-rw-r--.   1    ec2-user ec2-user 45    Jul 20 00:08    deploy.sh
+l     rwxrwxrwx.   1    ec2-user ec2-user  9    Jul 23 16:15    deploy-sl -> deploy.sh
+-     rw-rw-r--.   2    ec2-user ec2-user 45    Jul 20 00:08    deploy-bk.sh
+
+locate: locate fileName
+        locate deploy.sh 
+
+find: find /home/ec2-user/dev -name deploy.sh 
+      find / -name deploy.sh  = searches from the root dir  
+      find /tmp -name deploy.sh 
+      sudo find /tmp -name deploy.sh 
+      find . -name deploy.sh = It will search the deploy.sh 
+                               file under current directory [pwd]
+
+Permissions: 
+  Permissions are used to determine who can access a file and   
+  what they can do with the file. Generally we have the following interest 
+  groups:
+    owner  
+    Group  
+    others   
+Developers  
+DevOps Engineers  
+Group = DevOps
+dominion 
+  touch test   
+ec2-user  
+
+d     rwxrwxr-x.   2    ec2-user ec2-user  6    Jul 23 16:11    class
+-     rw-rw-r--.   1    ec2-user ec2-user  45    Jul 20 00:08    deploy.sh
+-     rw-rw-r--.   1    dominion devops    45    Jul 20 00:08    test 
+
+-     rw-    rw-    r--  . 1 ec2-user ec2-user  0 Jul 23 16:42 test 
+      owner  group  others 
+      6      6       4   =664
+d     rwx    rwx    r-x. 2 ec2-user ec2-user  6 Jul 23 16:11 class
+      7      7      5    = 775
+
+Normal users have 664 and 775 default permissions for files and directories 
+respectively
+
+root user's have 644 and 755 default permissions for files and directories 
+respectively
+
+  su - = will permit to switch to the root user's account  
+  sudo su -   
+  sudo -i   
+    [ec2-user@demo29 dev]$ sudo -i
+    [root@ip-172-31-12-29 ~]#
+   owner group others
+-  rw-   r--    r--. 1 root root 0 Jul 23 16:51 app
+    6     4      4  = 644Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   
+
+
+
+
+
+
+
+=====================================================================
+==================End Linux video 6===================================
+====================================================================
+
+
+
+
+
+
+
+
+
+
+
+===================================================================
+==========================Scripting video1==========================
+====================================================================
+
+  1.hardware 
+    memory
+    cpu
+    ROM -hard disk
+    MOUSE
+    keyboard
+  2.sofware
+    the OS is the more important part
+    shell
+    sublime text/ microsoft word/excell
+
+  OS
+    windows
+    solaris
+    Linux OS
+    mac  
+
+  How do we manage workload in a computer
+    GUI = Graphical User Interface
+    CLI = Command Line Interface 
+      Linux OS = linux server / system
+
+  ls = list the conten of a directory
+      touch test.txt
+
+SHELL SCRIPT
+Shell is an interpreter: It interprete command to the OS
+  a shell is a program that takes commands from the keyboard and give  them to the OS platform
+
+  a shell intyerprete command that are type 
+  On most linux system, a program called bash(which stands for bourne again Shell) act as the shell program. Besides Bourne shell programs that can be installed in Linux system. 
+    These include:
+      Korn Shell(ksh), Boune Again(bash), and Shell(csh)
+
+    Command that can be used to 
+      touch test.txt is created because we have a shell that is wirking in our system
+
+      echo $SHELL
+        == bin/bash                   bash is the bash interpretor
+       cat /etc/passwd 
+       cat /etc/shells
+        /bin/bash
+        /urs/bin/sh
+        /urs/bin/tcsh
+        /bin/csh
+
+  bash = borne again shell == is a newer and better version of the
+    bornes shell
+  sh = borne shell  == first shell that was created inlinux
+
+  A shell script = is a collection commands iun a file.
+    shell scrit has .sc or .sh extensions
+
+    #!/bin/python  == shiban/bin/python
+
+    #!/bin/bash
+    echo "Welcome to Landmark Technologies"
+
+
+
+
+    to run a script
+      sudo ./filename
+
+      34:30/2:28:23
+    
+
+
+
+athank you Jesus
+d  rwx   r-x    r-x. 2 root root 6 Jul 23 16:51 dev
+   7     5      5   = 755
+
+
+  file              directory :
+  read    = 4      
+  write   = 2
+  execute = 1   
+
+umask = It is use to set permissions for files/dir at creation  
+
+       NormalUser          rootUser
+        file    dir       file    dir    
+full    0666    0777      0666    0777
+Default 0664    0775      0644    0755
+        -----   -----     -----   ----
+umask   0002    0002      0022    0022
+        ----    ----      -----   ----
+                
+What is the default umask value for the root user and NormalUser??
+Because of 0022 umask value for the rootUser, files created by the 
+root user will inherit 0644 permissions
+
+Since the mask value for NormalUsers is 0002, files created by the 
+normal users will inherit 0664 permissions.  
+
+Set the umask value if all files should inherit 0666 permissions?
+   umask 0000   
+   -rw-rw-rw- = 666. 1 ec2-user ec2-user  0 Jul 23 17:10 file.js
+Set the umask value if all files should inherit 0600 permissions?
+   umask 0066 
+    - rw- --- --- 
+    - rw- --- ---. 1 ec2-user ec2-user  0 Jul 23 17:13 file2
+
+       NormalUser         
+        file   NewFile  newFile2       
+full    0666   0666      0666   
+Default 0664   0666      0600 
+        -----  ------    -------     
+umask   0002   0000      0066  
+        ----   -----     ------   
+
+owner  rw = 6  rwx=7 
+group  rw = 6  rwx=7
+others rw = 6  rwx=7
+
+IQ: How can set the permissions of new files/dir?? 
+  By changing the umask value.
+
+IQ: What is the default umask value for:
+      1: NormalUser  = umask is 0002
+      2. rootUser    = umask is 0022
+
+
+IQ: How can you change/modify the permissions of an existing file/dir ??
+  By using the chmod  command.  
+    chmod 600 fileName   
+    chmod 600 deploy 
+
+  useradd simon  
+  groupadd devops   
+
+   sudo useradd simon  
+   sudo groupadd devops 
+
+   sudo chown simon app.sh
+   sudo chgrp devops app.sh 
+
+   sudo chown simon:devops deploy  
+
+   sudo chown -R simon:devops dev  
+     This change ownership recursively
+       to both parent and child directories 
+
+Commands use in Reading/displaying the content of a file:
+echo "JESUS IS LORD"
+  JESUS IS LORD
+file1
+  DevOps is good  
+  I will be a DevOps Engineer in 2022/2023.
+  I will be helping companies for automation
+  With automation my clients will make more profit  
+  CLIENTS will realised the highest possible ROI.  
+cat file1
+   more file2   
+  less file2           
+
+file2 = 700 lines/21pages
+  cat file2  
+  more file2   
+  less file2
+  head 
+  tail            
+
+
+System Resources Commands:
+==========================
+Linux Redhat8 demo server Sever
+Linux Redhat8 application server Sever
+-- We build and deploy applications securely in app servers 
+   Servers are commonoly call systems 
+     [Linux/Windows/Mac System/server] 
+Servers/systems are furnished with Resources like   
+  1. cpu, MEMORY=RAM, hardrive=ROM, USERS  
+who, 
+w, 
+last 
+whoami  
+users
+File Structure|
+  bin =binary files = Commands 
+  ==========================       
+ls pwd cat less chmod chown chgrp touch cd echo mkdir   
+
+whereis ls   
+whatis ls 
+
+date : Print or set the system date and time
+  Tasks scheduling is done using cron tables:
+    echo updates servers at 1am daily   
+  EST = NV  =  
+  GMT England 1am   
+ date 
+    [ec2-user@demo ~]$ date
+    Tue Jul 26 00:04:07 UTC 2022
+ timedatectl 
+ timedatectl list-timezones
+    Africa/Abidjan
+    Africa/Accra
+    Africa/Addis_Ababa
+    Africa/Algiers
+    Africa/Asmara
+    Africa/Bamako
+    Africa/Bangui
+ sudo timedatectl set-timezone <your_time_zone>
+ sudo timedatectl set-timezone America/New_York
+ sudo timedatectl set-timezone Africa/Bamako
+
+date  
+  Mon Jul 25 20:07:15 EDT 2022 
+ date -s "20220725 20:20:15"
+ sudo date -s "20220725 20:12:35"  
+
+df : Report file system disk space usage
+
+du : Estimate file space usage.
+
+ file1, file2 file3 file4 
+du -h 
+
+hostname : Show or set the system host name.
+  hostname  
+  hostname new-hostname  
+  hostname appserver 
+ we can use hostname to identify a server in the network, 
+ Hostname helps to communicate and connect with other servers  
+ Hostname can also help in health check  
+
+[sudo] password for simon:
+sudo hostname appserver
+sudo -u root hostname appserver
+   simon is not in the sudoers file.  
+   This incident will be reported.
+[simon@ip-172-31-12-29 ~]$
+
+To find the private IP address.
+ifconfig (OR) hostname -i (OR) ip a :
+
+To find the public IP address.
+  curl ifconfig.co   
+
+service : It will give the status of service.
+   systems/servers has multiple services to function effectively,
+   deploy and expose applications   
+  sshd is the secure shell or ssh service 
+  NTPD use NTP to manage the system time
+  HTTPD is uses http asd a web server  
+ services can be in the following state:
+    started|restarted|stopped|disabled|enabled 
+
+  systemctl status serviceName 
+     systemctl status sshd 
+     systemctl status httpd  
+     systemctl status ntpd 
+  service serviceName status 
+     service sshd status 
+     service httpd status 
+    
+systemctl list-unit-files: It will list all services.
+
+uptime: Tells how long the system has been running.
+   server1=900days 
+   server2=2000days 
+   server9=45days
+last: show listing of last logged in users.
+Yum: 
+  yum install httpd  
+  systemctl status httpd
+
+Process management commands:
+    ps : Display the current process running.
+    ps -ef
+    ps -ef | grep httpd    
+    kill : Kill the process
+    top : Display Linux tasks.
+
+IQ: What will you do if you discover that a process is consuming 
+    over 90% of your system Resources [MEMORY/cpu]
+
+How will you troubleshoot a slow running linux server??
+  1. df -h 
+  2. free -m 
+  3. top 
+  4. kill -9 processID 
+
+Answer: Kill the process     
+
+Playing video game  
+watching a 3D, 4K movie 
+
+Team:
+  dominion  
+  landmark 
+  simon 
+  Erica
+  Chidi  
+  glory 
+  ec2-user
+
+
+
+sudo vi /etc/ssh/sshd_config
+PasswordAuthentication no
+PasswordAuthentication yes 
+
+sudo systemctl restart sshd  
+sudo passwd simon  
+  admin123 
+  admin123  
+
+ip=13.52.74.182 
+userName = simon   
+password = admin123
+ram/MEMORY=32G 
+max load average = 1.0/1.0
+load average     = 0.9
+
+
+System Resources Commands
+memory=RAM  
+harddirve = ROM  
+cpus = dual/quad/8/16/32 core 
+Ticket--0014 [tesla] 
+HLD=System Requirement  = 16vCPUs / 64GB RAM / 900GB Hardrive
+  df -h
+  du -h 
+  free -h  
+  who   
+  w  
+
+yum install/updates/remove/upgrade 
+yum install tree httpd 
+yum install nano  
+yum updates nano
+yum updates 
+yum upgarde tree 
+sudo yum install nano vim  
+sudo yum install nano vim -y  
+whereis yum  
+bin or sbin   
+=============
+
+Archive/Data Backup Commands:
+  deploy.sh  === 800MB  
+  app.js     === 2GB[2000MB]
+  monitor.sh === 2GB  
+  app.log    === 5GB
+  Total size === 9.8GB * 2 = 19.6GB     
+  
+  Compress the files before Backup
+    zip app.zip app.log     
+    unzip app.zip
+    tar -cfv app.tar.gz app.log  
+    tar -xfv 
+    tar -xvf app.log.tar.gz  
+     ls -lh
+
+User/Group Administration Commands:
+==================================
+useradd or adduser : will create users in Linux
+userdel : will delete users in Linux 
+usermod :
+chage: 
+passwd : userName = create/assign password to users  
+  ssh private or public key to access the system
+  ssh-keygen : [ssh_PRIVATE_KEY / SSH_public-KEY]    
+Add users to the sudoers files  
+Granting superuser/sudo privileges to users by 
+adding users to the sudoers files
+   how to add users in the sudoers file:
+      vi /etc/sudoers  or visudo  
+
+groupadd: will create groups in Linux
+Groups:
+  developers   
+  engineers   
+  managers 
+  directors
+  contractors 
+  president   
+members/users:
+  dominion  
+  landmark  
+  ola 
+  obi
+  simon 
+  ec2-user 
+  root   
+users information are contained in the following files:
+  cat /etc/passwd
+  tail -3 /etc/passwd  
+  cat /etc/shadow  
+    obi:!!:19200:0:99999:7:::
+    landmark:!!:19200:0:99999:7::: 
+  sudo passwd obi
+  su - obi
+  [obi@ip-172-31-12-29 ~]$ id obi
+uid=1003(obi) gid=1004(obi) groups=1004(obi)
+   grep obi  /etc/groups 
+   cat /etc/groups 
+   sudo userdel -r landmark
+   sudo userdel landmark
+
+Groups and users are assigned roles/permissions using RBAC  
+sudo echo "nexus ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/nexus
+sudo echo "ola ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/ola  
+sudo echo "chidi ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/chidi  
+sudo echo "mercy ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/mercy
+
+
+scp  = secure copy 
+ This will copy files/dirs between servers   
+ssh = scure shell  
+  use to connect to a linux server  
+
+ip-address: 172.31.12.29
+userName: simon  
+PasswordAuthentication = admin123  
+   ssh simon@172.31.12.29  
+
+Explain how to enable PasswordAuthentication in 
+aws ec2 Linux instances??
+1. sudo vi /etc/ssh/sshd_config  
+   change PasswordAuthentication from "no" to "yes"
+2. restart your ssh service  
+   sudo systemctl restart sshd 
+3. assigne password to users  
+ip-address: 172.31.12.29
+userName: ec2-user  
+ssh_key =   class29key.pem  
+  ssh -i class29key.pem ec2-user@172.31.12.29
+Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   Notes video 5
+
+
+To Read a file
+  cat filename
+  more filename : display the max content the sceen can read, you keep pressing enter until the last page
+  less filename : with the less command you can just crow down
+  echo filename
+  head filename   / head -5
+  tail filename   / tail -4
+
+
+System Resources Commands 
+  command uses to check the resources of our system
+--------------------------
+--------------------------
+
+servers are commontly called system
+  my system is linx or Windows or Mac
+  Server are furnishes with ressources suvch as 
+     cpu, RAM=Memory, hardrive=ROM, USERS
+
+Team 
+dominium
+landmark
+erica
+chidi
+
+  who, w, last
+  who display the current users workin on the system.
+  w: DShow who is logged on and what they are doing.
+  users: Display a compact list of the users currently logged on the system.
+  whoami: Display the current user info who gave this command
+  whereis : path/locate the binary , source, and manual page file for a command.
+  date: Print or set the system date and time
+  df: Rport file system disk space usage
+  du: estimate file space usage
+  hostname: show or set the system host name.
+
+  To find the IP address
+    public 
+      curl ifconfig.co
+
+    ifconfig 
+    private
+      hostanme -i 
+      ip 
+
+======================================================================
+======================================================================
+To enter confifuration that will allow us to change the password Authentication from no to yes
+	sudo vi /etc/ssh/sshd_config
+	s: To restart the computer after making a  								change
+
+To assign password to user
+    sudo passwd simon
+
+ls /home
+sudo useradd Ola     to add user called ryan
+sudo useradd -m ryan           -m create a home while adding  
+                                user on all linux platform
+ls /home  will display the user currentl in the home dir 
+sudo passwd ryan
+
+To  add user to the sudoers file:
+     sudo vi /etc/sudoers
+        add ryan(user) under root   
+        root     ALL=(ALL:ALL) ALL 
+        ryan     ALL=(ALL:ALL) ALL    in insert
+            then press ESCs
+            then :wq!      or :x!
+
+To see user in the file
+     sudo cat /etc/sudoers
+
+To stwich user 
+      su - username
+      su - ryan
+
+ If $ only       adduser     useradd
+ To use the correct shield,   $ bash(we type bash)
+
+  cat /etc/sudoers      if permission deny
+  sudo cat /etc/sudoers
+
+  cat /etc/sudoers 
+
+  ls /home       will show the list of users in the home directory
+
+  cat /etc/passwd
+
+
+
+To change user permission from no to yes:
+    sudo vi /etc/ssh/sshd_config
+       go to insert mode
+       change passwdauthentication from yes
+       press esc key to exit insert mode
+       then :wq! to save the change
+       then enter
+
+    To restart   sudo systemctl restart sshd
+
+To connect to MobaXterm
+      shh userName@publicIPadress
+      curl ifconfig.co
+       ssh ryan@3.85.160.93
+
+      
+      password:
+
+To verify type w to see who is connected.       
+
+======================================================================
+======================================================================
+To exit the home of ec2-user and go the ryan
+   sudo su - ryan
+   use exit log out the current user.
+
+
+last: show user that have been connected to the server
+users: list the user that are connected to the sytem now
+whoami: it show whoo is currently performing task
+who:
+w :
+
+bin durector are made of binary file. binary file are command
+
+whereis ls
+whatis : will tell you what the command do
+
+date: 
+  echo update server at 1am daily
+  tasks scheduling is done using cron tables: 
+
+  date -s === is use to set the time
+  date -s "20220725 20: 20:15" == to change the date
+
+timedatectl  
+  timedatectl list-timezones
+  timedatectl set-timezone yourTimezome    == to set time zone
+  timedatectl set-timezone America/New_York
+
+  systemctl list-unit-files :It will loist all services
+
+df: report how much ressource the system has
+  df -h
+du
+
+service = It will give the status of service. systems/servers has   
+    ultiple services to function effectively, deploy and expose applications
+
+    ssh  = secure shell service
+    sshd is the secure shell or ssh services
+    NTPD= NTP(network Time Protocol) is use to manage the system time
+    Or NTPD uses NTP to manage system time
+
+    HTTPD uses http as a web server
+
+Service can be in the following stste:
+  started|restarted|stopped|disabled|enabled  
+
+IQ: If younstop SSHD, can you shh into your service? : No
+   
+   To check if the service is running:
+    
+      service serviceName status 
+       service sshd status 
+       service httpd status 
+
+       systemctl status serviceName 
+       systemctl status shttpd
+       systemctl status ntpd
+       systemctl status nt
+
+
+
+ls -h
+ls -lh == Meant that it is display information in human reading format
+
+hostanme show or set the system hostname : 
+  hostname can be use to identify a server in the network, 
+  to helps communicate and connect with other servers.
+  hostanme help in health check
+
+hostname new-hostname   : To change hostanme
+
+su -simon
+
+curl ifconfig.co   = Will display the ip address
+
+hostname -i = Will display the private ip
+
+
+======================================================
+========== Process Management Command ================
+======================================================
+
+ps: Display the current process running in our server
+      ps -ef == display all process that are running
+      ps -ef | grep processname == will grep(extract) a specific process
+      ps -ef | grep httpd == will extract httpd prcoess
+free -m == tell you how much memory you have and how much is being used
+
+kill: hill the process
+
+top: Display Linux tasks , it give you a complete picture of how the  system is running.
+
+sar : 9system activity Report): It is used to collect the CPY, menary and I/O usage.
+
+IQ: What will you do if you discorver  the process isconsuming     
+  over 90 percent of the resource.
+  ans: Kill the process with the kill command
+
+  zombie processes == process that had no impact on our work load,     
+    but is c onsuming our system resources.
+ IQ: How will you troubleshoot a slow running linux server??
+    we can run:
+    1. df -h == To check how much ressources is being consume
+    2. free -m == to chech how much memory is still available in 
+        the  system 
+    3. top == give the process running and the ressources they are    
+      consuming. will also identify the zombie processes
+    Then: Once identify, we can kill those process or resource that    are consuming those processes.
+      kill -9 processID  
+    
+
+
+yum = is used to install any package into our system. it search the [particular package and install it.
+
+======================================================================
+============== linux Video 6 reading================================
+===================================================================   
+HLD(hight level documentation)= system requirements
+  df / df -h= check tyhe file system
+  du / df -h =check how much resources the syetm is consuming
+  free/ free -h =  to know how much memory is being used
+
+  who: show who is connected
+  w: who is connected and what they are doing
+  date
+  man
+  whatis
+  uptime
+
+  yum install/ updates/remove/upgrade
+
+  yum intall nano -y
+  yum updates filename 
+
+
+  yum updates == will update all packages
+  yum upgrade tree 
+  yum upgrade ==  will upgrade a;ll packages
+
+Tickect === Someone was not able to querry whatis ls , whatis grep
+    solution  = sudo mandb == it create or update the manual page index
+                              caches
+
+
+  
+
+  sudo yum remove programName == to uninstall the program
+  sudo yum remove nano == to uninstall nano
+
+ps == use to show the process running on our server
+  ps -ef == show all the process running in our server
+  ps -ef | grep sshd  == will grep sshd process
+    from the list of precocess  
+  ps -ef | grep ssh  == will grep ssh process
+    from the list of process        
+
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   
+
+=================== Archeive/Data Backup Commands ======================
+zip= packtake and compress files
+unzip = Extract compressed files in azip archive
+tar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+ Why should we bacup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   
+use SCP command  
+  app.java
+scp -r  class29 simon@172.31.12.29:/home/simon/ 
+scp  class29 simon@172.31.12.29:/home/simon/
+
+
+2. Enable PasswordAuthentication in your Linux server
+=========================================================
+sudo sed -i "/^[^#]*PasswordAuthentication[[:space:]]no/c\PasswordAuthentication yes" /etc/ssh/sshd_config
+sudo service sshd restart
+sudo systemctl restart sshd  
+
+
+ sudo /etc/ssh/sshd_config

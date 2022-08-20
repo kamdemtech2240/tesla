@@ -1,0 +1,46 @@
+ar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+
+ Why should we backup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   
+
+ar=  = It is used to archive the ditrectory/file
+
+    let have:
+      deploy.sh === 800MB
+      apps.js  === 2GB[2000MB]
+      mon itor.sh === 2GB
+      app.log ===5GB
+    total size ==9.8 * 2 = 19.6GB == We cannot backup without zipping or compressing because it will consume toom much the resources  
+
+  Zip                   app.zip
+  unzip                 app.unzip
+  tar -c  
+    tar -c = will compress the file
+    tar -cfv =compress the file in verbose mode.    tar -cfv app.log 
+    tar -x = will extract the compress file 
+    tar -xfv = will extract the compress file  in verbose mode         
+
+      we want to backup the above data
+
+ Why should we backup the date?
+  because we can go back to the abckup if aour data are corrupted or lost(power outrage, system failure)   
+
+:wq!
+
