@@ -1,1 +1,29 @@
 I am a child of God
+
+#Addition into the file
+my first commit 2
+
+commit 2cb2e30af140d77477549b102c4c064dbb9e634f
+    Deployment files added
+
+commit 1cf41fc9cf020d45e9c44b3b27d974303cd3373
+
+    Tools added
+
+commit dc57e5975e5f73c4576ebc9e8f37f572023c6012
+
+    my first commit
+[ryan@dev github]$ ls
+app.java  cases  cases2  cases3  cases4  cases6  cases67  deploy.py  test.cases
+[ryan@dev github]$ cd ..
+[ryan@dev ~]$ ls
+apache1.log       app1.zip  file12       myfile.sh      sc         user.sh
+apacheDisInst.sh  app.log   file8.sh     newUsers       school     user.tar.gz
+apache.log        cla.sh    filemgt.log  package.sh     tesla      user.zip
+apache.sh         dir1      filemgt.sh   read-user2.sh  user       v
+app1              dir2      github       Role           user2.sh
+app1.tar          dir4      hello.sh     sao.sh         userafile
+[ryan@dev ~]$ cd tesla
+[ryan@dev tesla]$ ls
+apache1.log  app1  app.log  cla.sh  file1  file12  read-user2.sh  user  user2.sh
+[ryan@dev tesla]$
